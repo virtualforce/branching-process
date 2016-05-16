@@ -46,7 +46,7 @@ If a feature branch gets pretty old (more than 2 branches old from the dev branc
 ## The Process
 Here is the process at a glance
 
-![Branching Scheme](https://github.com/virtualforce/branching-process/images/branching.png "Branching Scheme")
+![Branching Scheme](https://github.com/virtualforce/branching-process/images/branching.jpg "Branching Scheme")
 
 
 Event | Source Branch | Destination Branch | Responsible Person | Steps
