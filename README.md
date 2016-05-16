@@ -1,6 +1,6 @@
 # Repo Management - Branching Approach
 
-Javed Zahoor, Virtual Force
+Muaaz Rafi & Kamal Ejaz, Virtual Force
 
 This document highlights the branching methodology used at Virtual Force to meet our highly dynamic and collaborative working needs. The process is pretty standard and adopted to work for our diverse tech teams. 
 
